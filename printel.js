@@ -1,9 +1,9 @@
 
-var datareceipt = '{ 
+var datareceipt = { 
     "money" : "EUR",
     "company" : "CompanyExample",
     "url" : "www.companyexample.com"
-}';
+};
 
 var PrintReceipt = {
 
